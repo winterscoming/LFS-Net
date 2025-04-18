@@ -1,1 +1,1 @@
-# LFS-Net
+# LFS-Net: Levels Feature Shared Network for Small Object Detection
